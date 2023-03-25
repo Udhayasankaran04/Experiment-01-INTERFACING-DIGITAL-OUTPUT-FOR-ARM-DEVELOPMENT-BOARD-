@@ -83,6 +83,9 @@ The main features of LPC2148 include the following.
 
 
 ## Output  :
+![MICROOOO](https://user-images.githubusercontent.com/119393933/227698568-3e0a10fc-6da4-488b-9e3f-6e2437a516be.jpg)
+![LED MICRO ](https://user-images.githubusercontent.com/119393933/227698581-002e74cf-0e8c-4eea-b083-e90f09deba6b.jpg)
+
  
  
  
